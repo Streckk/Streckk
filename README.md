@@ -1,17 +1,101 @@
-# 💫 About Me:
-Soy un profesional comprometido con la calidad y trabajo en equipo, apasionado por aprender nuevas tecnologías. Mis<br>metas incluyen el crecimiento profesional en tecnología, la disposición para explorar y aprender nuevos lenguajes. Me gusta<br>tanto aprender como enseñar.
 
+<div align="center">
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Streckk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Streckk&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Streckk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Ángel Luis Rico Longoria
 
+**Software Engineer | Backend & Software Architecture**
 
+Building scalable, maintainable and reliable software.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Streckk-181717?style=flat-square&logo=github)](https://github.com/Streckk)
+![Location](https://img.shields.io/badge/Location-Mexico-21262D?style=flat-square)
+
+</div>
 
 ---
 
+## About me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a software engineer focused on backend development,
+distributed systems and scalable software architecture.
+
+I enjoy designing solutions that go beyond functionality,
+prioritizing maintainability, performance, security and
+long-term software quality.
+
+My interests include software architecture, developer
+experience, automation and the integration of artificial
+intelligence into modern software engineering workflows.
+
+## Technical expertise
+
+### Languages & Runtime
+
+![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat-square&logo=node.js)
+
+### Backend & Architecture
+
+![NestJS](https://img.shields.io/badge/NestJS-181717?style=flat-square&logo=nestjs&logoColor=E0234E)
+![GraphQL](https://img.shields.io/badge/GraphQL-181717?style=flat-square&logo=graphql&logoColor=E10098)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_Federation-181717?style=flat-square&logo=apollographql)
+![Express](https://img.shields.io/badge/Express-181717?style=flat-square&logo=express)
+![Microservices](https://img.shields.io/badge/Microservices-181717?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_APIs-181717?style=flat-square)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=next.js)
+
+### Databases & Caching
+
+![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-181717?style=flat-square&logo=redis&logoColor=DC382D)
+
+### Infrastructure & Developer Tools
+
+![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-181717?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Keycloak](https://img.shields.io/badge/Keycloak-181717?style=flat-square&logo=keycloak)
+![Nx](https://img.shields.io/badge/Nx-181717?style=flat-square&logo=nx)
+![pnpm](https://img.shields.io/badge/pnpm-181717?style=flat-square&logo=pnpm)
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux)
+
+## Engineering focus
+
+- Distributed systems and microservices
+- Federated GraphQL architectures
+- Multi-tenant software architecture
+- Domain-driven design and modular systems
+- Software quality and engineering standards
+- AI-assisted software engineering
+- Developer tooling and workflow automation
+
+## Open source
+
+### [agent-quality-gate](https://github.com/Streckk/agent-quality-gate)
+
+An open-source initiative focused on improving the quality,
+consistency and reliability of AI-assisted software development
+through structured quality gates and engineering standards.
+
+**Focus:** AI Agents · Code Quality · Developer Experience
+
+## Currently exploring
+
+- Event-driven architecture
+- AI agent orchestration
+- Automated software quality gates
+- Scalable distributed systems
+- Engineering productivity
+
+---
+
+<div align="center">
+
+*Good software is not just written. It is engineered.*
+
+</div>
